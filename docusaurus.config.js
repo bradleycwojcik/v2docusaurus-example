@@ -14,7 +14,9 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/doc1', label: 'Docs1', position: 'left'},
+        {to: 'docs/doc2', label: 'Docs2', position: 'left'},
+        {to: 'docs/doc3', label: 'Docs3', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
